@@ -4,25 +4,10 @@
  "Bad things gone, say good people" -- 170098 views
 
 2. Who are the most popular article authors of all time?
- Ursula La Multa -- 507594 views
- Rudolf von Treppenwitz -- 423457 views
- Anonymous Contributor -- 170098 views
- Markoff Chaney -- 84557 views
+ Ursula La Multa           -- 507594 views
+ Rudolf von Treppenwitz    -- 423457 views
+ Anonymous Contributor     -- 170098 views
+ Markoff Chaney            --  84557 views
 
 3. On which days did more than 1% of requests lead to errors?
- July 03, 2016 -- 1.022% errors
- July 05, 2016 -- 1.085% errors
- July 06, 2016 -- 1.074% errors
- July 08, 2016 -- 1.062% errors
- July 09, 2016 -- 1.038% errors
- July 11, 2016 -- 1.037% errors
- July 15, 2016 -- 1.039% errors
- July 19, 2016 -- 1.095% errors
- July 21, 2016 -- 1.058% errors
- July 22, 2016 -- 1.029% errors
- July 24, 2016 -- 1.094% errors
- July 25, 2016 -- 1.002% errors
- July 26, 2016 -- 1.021% errors
- July 28, 2016 -- 1.003% errors
- July 30, 2016 -- 1.010% errors
- July 31, 2016 -- 1.004% errors
+ July 17, 2016 -- 2.263% errors
